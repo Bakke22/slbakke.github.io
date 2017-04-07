@@ -1,3 +1,10 @@
 p {
 color: green;
 }
+h1 {
+  font-size: 24px;
+  font-weight: bold;
+  border: 1px solid black;
+  color: pink;
+}
+/* This will make all <h1> headers big, bold, pink, and inside of a thin black rectangle! */
